@@ -11,7 +11,7 @@
   <img align="center" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/564262523801436160/936415268027117588/62yzdi.gif?width=676&height=676">
+  <img align="right" alt="debora-macedo" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/564262523801436160/936415268027117588/62yzdi.gif?width=676&height=676">
 </div>
   
   ##
